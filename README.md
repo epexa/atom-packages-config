@@ -1,5 +1,7 @@
 # Atom Packages Config
 
+------------
+
 ## Packages
 | Name | Description |
 |------|-------------|
@@ -13,3 +15,17 @@
 [minimap](https://atom.io/packages/minimap) | A preview of the full source code. ![](https://i.github-camo.com/bb671dcf7706c32eb432472c2cd69d354f824661/68747470733a2f2f6769746875622e636f6d2f61746f6d2d6d696e696d61702f6d696e696d61702f626c6f622f6d61737465722f7265736f75726365732f73637265656e73686f742e706e673f7261773d74727565)
 [editorconfig](https://atom.io/packages/editorconfig) | Helps developers maintain consistent coding styles between different editors. ![](https://i.github-camo.com/691d2ab6e82a58fcd1a04cd70395d3099e84f72a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73696e647265736f726875732f61746f6d2d656469746f72636f6e6669672f76322e352e302f66696576656c2d6d6f7573656b657769747a34382e676966)
 [linter-eslint](https://atom.io/packages/linter-eslint) | Lint JavaScript on the fly, using ESLint.
+
+------------
+
+## Contacts
+
+Telegram: [@epexa](https://t.me/epexa)
+
+------------
+
+## License
+
+### MIT
+
+More in [LICENSE](LICENSE).
