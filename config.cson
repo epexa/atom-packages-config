@@ -1,0 +1,139 @@
+"*":
+  "activate-power-mode":
+    comboMode:
+      enabled: false
+    playAudio:
+      audioclip: "../audioclips/typewriter.wav"
+    plugins:
+      playAudio: false
+      screenShake: false
+    screenShake:
+      enabled: false
+  "block-comment-plus":
+    wrapWith: "Spaces"
+  "bracket-matcher":
+    highlightMatchingLineNumber: true
+  "command-palette":
+    preserveLastSearch: true
+  comment: {}
+  core:
+    disabledPackages: [
+      "language-clojure"
+      "language-c"
+      "language-coffee-script"
+      "language-csharp"
+      "language-go"
+      "language-java"
+      "language-make"
+      "language-mustache"
+      "language-objective-c"
+      "language-perl"
+      "language-python"
+      "language-ruby-on-rails"
+      "language-ruby"
+      "language-rust-bundled"
+      "language-yaml"
+      "archive-view"
+      "language-toml"
+      "metrics"
+      "symbols-view"
+      "timecop"
+      "welcome"
+      "package-generator"
+      "project-viewer-plus"
+      "autosave"
+      "exception-reporting"
+      "styleguide"
+      "language-source"
+      "language-property-list"
+      "language-gfm"
+      "incompatible-packages"
+      "bookmarks"
+      "autoflow"
+      "language-git"
+      "activate-power-mode"
+    ]
+    packagesWithKeymapsDisabled: []
+    projectHome: "/home/epexa/dev/"
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  counter:
+    countChars: false
+    countWords: false
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "81b56996-c57a-4102-b2af-56c3c7711da8"
+  "file-icons": {}
+  "find-and-replace":
+    autocompleteSearches: true
+    scrollToResultOnLiveSearch: true
+  "fuzzy-finder":
+    preserveLastSearch: true
+  "git-diff":
+    showIconsInEditorGutter: true
+  github: {}
+  "goto-definition":
+    performanceMode: true
+  "highlight-selected":
+    highlightBackground: true
+  "line-ending-selector": {}
+  "linter-eslint": {}
+  "linter-ui-default":
+    panelHeight: 80
+  "markdown-preview":
+    useGitHubStyle: true
+  minimap: {}
+  "one-light-ui":
+    fontSize: 13
+    stickyHeaders: true
+    tabSizing: "Maximum"
+  "project-manager": {}
+  "project-viewer":
+    autoHide: true
+    disclaimer:
+      v131: false
+    hideHeader: true
+    panelPosition: "Left (first)"
+  "project-viewer-plus":
+    database: {}
+    dock:
+      isActive: false
+      isVisible: false
+      saveChanges: false
+    packages:
+      findAndReplace: true
+      github: true
+      linter: true
+      statusBar: true
+      treeView: true
+  "quick-highlight": {}
+  "remote-ftp":
+    connector: {}
+    notifications:
+      enableTransfer: true
+    statusbar:
+      enable: true
+      position: "right"
+  "settings-view": {}
+  "spell-check": {}
+  "status-bar": {}
+  "symbols-navigator":
+    collapsedByDefault: true
+    position: "Right"
+  "symbols-tree-view": {}
+  "symbols-view": {}
+  tabs:
+    enableVcsColoring: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+  whitespace: {}
+  wordcount: {}

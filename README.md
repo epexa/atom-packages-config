@@ -18,6 +18,12 @@
 
 ------------
 
+## Config
+
+More in [config.cson](config.cson).
+
+------------
+
 ## Contacts
 
 Telegram: [@epexa](https://t.me/epexa)
